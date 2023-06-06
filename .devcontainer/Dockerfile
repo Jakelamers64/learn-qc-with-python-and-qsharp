@@ -17,6 +17,7 @@ RUN pip install cython \
                 numpy \
                 matplotlib \
                 scipy && \
-    pip install qutip
+    pip install qutip 
+    pip install jupyterlab
 
 USER ${USER}
