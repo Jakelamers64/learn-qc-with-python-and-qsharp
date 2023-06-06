@@ -6,5 +6,6 @@
     "extensions": [
         "quantum.quantum-devkit-vscode",
         "ms-python.python"
-    ]
+    ],
+    "installJupyterlab": true
 }
